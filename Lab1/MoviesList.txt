@@ -1,0 +1,19 @@
+{
+	"search":[
+		{
+			"title":"Long title that want to break your layout. Long title that want to break your layout. Long title that want to break your layout. Long title that want to break your layout",
+			"year":"2020",
+			"imdbID":"noid",
+			"type":"test",
+			"poster":"Poster_01.jpg"
+	}, {
+		"title":"Star Wars: Episode IV - A New Hope Star Wars: Episode IV - A New Hope ",
+		"year":"1977",
+		"imdbID":"tt0076759",
+		"type":"movie",
+		"poster":"Poster_01.jpg"
+	}, {
+		"title":"Star Wars: Episode V - The Empire Strikes Back",
+		"year":"1980",
+		"imdbID":"tt0080684",
+		"type":"movie","poster":"Poster_02.jpg"},{"title":"Star Wars: Episode VI - Return of the Jedi","year":"1983","imdbID":"tt0086190","type":"movie","poster":"Poster_03.jpg"},{"title":"Star Wars: Episode VII - The Force Awakens","year":"","imdbID":"tt2488496","type":"movie","poster":"Poster_10.jpg"},{"title":"Star Wars: Episode I - The Phantom Menace","year":"1999","imdbID":"tt0120915","type":"movie","poster":"Poster_05.jpg"},{"title":"Star Wars: Episode III - Revenge of the Sith","year":"2005","imdbID":"tt0121766","type":"movie","poster":"Poster_06.jpg"},{"title":"Star Wars: Episode II - Attack of the Clones","year":"2002","imdbID":"tt0121765","type":"movie","poster":"Poster_07.jpg"},{"title":"Star Trek","year":"2009","imdbID":"tt0796366","type":"movie","poster":"Poster_08.jpg"},{"title":"Star Wars: Episode VIII - The Last Jedi","year":"2017","imdbID":"tt2527336","type":"","poster":"Poster_10.jpg"},{"title":"Rogue One: A Star Wars Story","year":"2016","imdbID":"tt3748528","type":"movie","poster":"Poster_10.jpg"}]}
